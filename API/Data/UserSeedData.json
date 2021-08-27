@@ -14,7 +14,8 @@
         "Photos": [
             {
                 "Url": "https://www.face-agency.co.uk/images/uploads/models/large/1525336111-21.jpg",
-                "IsMain": true
+                "IsMain": true,
+                "IsApproved": true
             }
         ]
     },
@@ -33,7 +34,8 @@
         "Photos": [
             {
                 "Url": "https://www.thejapanguy.com/wp-content/uploads/2017/04/Asian-Faces-Quiz-Women-Queston-2-Eiko-Koike-JAPANESE.jpg",
-                "IsMain": true
+                "IsMain": true,
+                "IsApproved": true
             }
         ]
     },
@@ -52,7 +54,8 @@
         "Photos": [
             {
                 "Url": "https://solarisstudios.com/wp-content/uploads/2016/05/Houston-Business-Headshot.jpg",
-                "IsMain": true
+                "IsMain": true,
+                "IsApproved": true
             }
         ]
     },
@@ -71,7 +74,8 @@
         "Photos": [
             {
                 "Url": "https://www.rodgoodmanphoto.com/img/s2/v58/p1302402780-2.jpg",
-                "IsMain": true
+                "IsMain": true,
+                "IsApproved": true
             }
         ]
     },
@@ -90,7 +94,8 @@
         "Photos": [
             {
                 "Url": "https://www.neilsonreeves.co.uk/wp-content/uploads/McMillan-Davies-Headshots-3-Edit-495x400.jpg",
-                "IsMain": true
+                "IsMain": true,
+                "IsApproved": true
             }
         ]
     },
@@ -109,7 +114,8 @@
         "Photos": [
             {
                 "Url": "https://i2-prod.irishmirror.ie/incoming/article5429533.ece/BINARY/archetypal-male-fa_3249635c.jpg",
-                "IsMain": true
+                "IsMain": true,
+                "IsApproved": true
             }
         ]
     },
@@ -128,7 +134,8 @@
         "Photos": [
             {
                 "Url": "https://www.uni-regensburg.de/Fakultaeten/phil_Fak_II/Psychologie/Psy_II/beautycheck/english/prototypen/m_sexy_gr.jpg",
-                "IsMain": true
+                "IsMain": true,
+                "IsApproved": true
             }
         ]
     },
@@ -147,7 +154,8 @@
         "Photos": [
             {
                 "Url": "https://atozhairstyles.com/wp-content/uploads/2016/07/3-The-Ruffled-Wavy-look-240x300.jpg",
-                "IsMain": true
+                "IsMain": true,
+                "IsApproved": true
             }
         ]
     },
@@ -166,7 +174,8 @@
         "Photos": [
             {
                 "Url": "https://i.pinimg.com/236x/e2/29/6f/e2296f91e14ff94a484e938f8038d5cd.jpg",
-                "IsMain": true
+                "IsMain": true,
+                "IsApproved": true
             }
         ]
     },
@@ -185,7 +194,8 @@
         "Photos": [
             {
                 "Url": "http://www.mens-hairstyle.com/wp-content/uploads/2018/07/1-Hairtyles-for-Men-with-Oval-Face-466.jpg",
-                "IsMain": true
+                "IsMain": true,
+                "IsApproved": true
             }
         ]
     }
